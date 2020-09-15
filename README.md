@@ -14,4 +14,6 @@ By the end of the module, you'll be able to:
 - Use multiple methods to perform a function on a DataFrame
 - Perform mathematical calculations on columns of a DataFrame or Series
 
-
+## Technologies
+- Jupyter Notebook
+- Pandas
